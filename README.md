@@ -7,6 +7,7 @@ If you feel my intepretation of this material is not correct or other suggestion
 
 Thanks, hopefully this saves you some time.
 
+See `newTomes.py` for an indexer that finds all the files and folders in your JD Filesystem and maps them to a `.md` file.
 ## How does it work?
 1. Input the directory (empty directory) where you will want to create your JD filesystem into `dire`
 2. Creates the 10 area folders
